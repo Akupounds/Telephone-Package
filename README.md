@@ -1,5 +1,5 @@
 # Telephone Package
- A telephone package that aloows yo to AddPhoneNumber, RemovePhoneNumber and DialPhoneNumber
+ A telephone package that allows you to AddPhoneNumber, RemovePhoneNumber and DialPhoneNumber
 const readline = require('readline');
 
 class Telephone {
